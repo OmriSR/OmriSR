@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OmriSR
-- 👀 I’m interested in a junior developer position that can help me grow and improve my skills
+- 👀 I’m interested in a junior developer position in the fields of AI,ML and Data Science.
 - 🌱 I’m currently learning computer science at the Academic College Of Tel Aviv-Yafo. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by mail: omri.1996s@gmail.com or by my linkedin profile: https://www.linkedin.com/in/omri-shahar-38909a1b0/
 
 <!---
