@@ -53,6 +53,8 @@
     <tr>
       <td align="center" valign="top">
         Python<br/>
+        Golang<br/>
+        C++<br/>
         SQL<br/>
         Bash
       </td>
@@ -60,6 +62,7 @@
         PyTorch<br/>
         Hugging Face<br/>
         LangChain<br/>
+        LangGraph<br/>
         Vector Databases (Pinecone/Chroma)<br/>
         Scikit-learn
       </td>
